@@ -1,0 +1,30 @@
+{
+  "name": "@crossedkiller/create-project",
+  "version": "1.0.0",
+  "description": "Get loot from a spreadsheet",
+  "main": "src/index.js",
+  "bin": {
+    "@crossedkiller/create-project": "bin/create-project",
+    "create-project": "bin/create-project"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BatCountryEntertainment/npm-loot-generator-system.git"
+  },
+  "keywords":[
+    "cli",
+    "create-project"
+  ],
+  "author": "Crossedkiller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BatCountryEntertainment/npm-loot-generator-system/issues"
+  },
+  "homepage": "https://github.com/BatCountryEntertainment/npm-loot-generator-system#readme",
+  "dependencies": {
+    "esm": "^3.2.25"
+  }
+}
