@@ -14,7 +14,7 @@
     "type": "git",
     "url": "git+https://github.com/BatCountryEntertainment/npm-loot-generator-system.git"
   },
-  "keywords":[
+  "keywords": [
     "cli",
     "create-project"
   ],
@@ -25,6 +25,8 @@
   },
   "homepage": "https://github.com/BatCountryEntertainment/npm-loot-generator-system#readme",
   "dependencies": {
-    "esm": "^3.2.25"
+    "arg": "^5.0.1",
+    "esm": "^3.2.25",
+    "inquirer": "^8.2.0"
   }
 }
